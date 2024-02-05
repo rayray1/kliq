@@ -1,0 +1,49 @@
+{
+  "promotions": [
+    {
+      "id": "49121d10-b21c-4842-810a-aeb5f85b2068",
+      "name": "Subscription name",
+      "discountType": "Premium",
+      "discount": 300,
+      "endDate": "11/12/24",
+      "productType": "meal plan",
+      "status": "active"
+    },
+    {
+      "id": "a5a241b7-e066-4220-8c79-e57de8564567",
+      "name": "Subscription name",
+      "productType": "Premium",
+      "discount": 100,
+      "discountType": "Premium",
+      "status": "active",
+      "endDate": "04/11/24"
+    },
+    {
+      "id": "a5a241b7-e066-4220-8c79-e57de856445",
+      "name": "Subscription name",
+      "productType": "Premium",
+      "discount": 700,
+      "discountType": "Course",
+      "status": "inactive",
+      "endDate": "04/11/24"
+    },
+    {
+      "id": "a5a241b7-e066-4220-8c79-e57de856785",
+      "name": "Subscription name",
+      "productType": "Premium",
+      "discount": 50,
+      "discountType": "Course",
+      "status": "inactive",
+      "endDate": "01/12/24"
+    },
+    {
+      "id": "a5a241b7-e066-4220-8c79-e57de85",
+      "name": "Subscription name",
+      "productType": "Premium",
+      "discount": 30,
+      "discountType": "Course",
+      "status": "inactive",
+      "endDate": "05/09/24"
+    }
+  ]
+}
